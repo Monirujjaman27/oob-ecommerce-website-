@@ -1,0 +1,24 @@
+li {
+    list-style: none;
+}   
+.dashboard-body{
+    background: #1C4263 ;
+    margin: 5px;
+}
+header nav a{
+    color: white;
+    text-decoration: none !important;
+}
+header nav a:hover{
+    color: rgb(199, 196, 196);
+}
+header nav, footer{
+    background: #1C4259;
+    color: #fff;
+}
+.mh-600{
+min-height: 600px;
+}
+.w-98{
+    width: 98%;
+}
